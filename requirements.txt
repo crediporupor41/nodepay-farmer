@@ -1,0 +1,6 @@
+requests
+websockets==12.0
+loguru
+websockets-proxy
+
+aspsrshg
